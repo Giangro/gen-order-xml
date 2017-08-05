@@ -31,6 +31,9 @@
 *.out
 *.app
 
+# log
+*.log
+
 # Directory
 .dep
 .obj
